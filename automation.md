@@ -5,8 +5,6 @@ Discover Weekly on Spotify
 
 Autocorrect
 
-
-
-
+YouTube algorithm
 
 Ads on social media
