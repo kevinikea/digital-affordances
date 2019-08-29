@@ -4,3 +4,5 @@ Netflix recommendations
 Discover Weekly on Spotify 
 
 Autocorrect
+
+YouTube Algorithm
