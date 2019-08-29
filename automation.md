@@ -3,6 +3,9 @@ Netflix recommendations
 
 Discover Weekly on Spotify 
 
+YouTube algorithm
+
 Autocorrect
 
-YouTube Algorithm
+Social media ads
+
