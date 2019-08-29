@@ -2,3 +2,5 @@
 Netflix recommendations
 
 Discover Weekly on Spotify 
+
+Autocorrect
